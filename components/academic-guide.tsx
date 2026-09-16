@@ -205,9 +205,7 @@ export default function AcademicGuide() {
           </Sheet>
 
           <div className="flex min-w-0 items-center gap-2 rounded-2xl bg-white px-2.5 py-2 shadow-sm sm:gap-3 sm:px-3">
-            <img src="assets/logo-ups-horizontal.webp" alt="Universidad Politécnica Salesiana Ecuador" className="h-8 w-auto sm:h-12" />
-            <span className="h-8 w-px shrink-0 bg-slate-200 sm:h-11" />
-            <img src="assets/Letrero Ingeniería Automotriz.png" alt="Carrera de Mecatrónica, Sede Quito" className="h-7 w-auto sm:h-10" />
+            <img src="assets/Logo Automotriz.png" alt="Universidad Politécnica Salesiana – Ingeniería Automotriz" className="h-10 w-auto max-w-full object-contain sm:h-14" />
           </div>
         </div>
       </header>
@@ -341,3 +339,4 @@ export default function AcademicGuide() {
     </main>
   );
 }
+
