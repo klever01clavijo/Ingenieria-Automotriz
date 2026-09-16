@@ -191,7 +191,7 @@ export default function AcademicGuide() {
                   </div>
                   <div>
                     <SheetTitle className="text-xl font-bold text-white">Guía académica</SheetTitle>
-                    <SheetDescription className="text-blue-100">Ingeniería Mecatrónica · Sede Quito</SheetDescription>
+                    <SheetDescription className="text-blue-100">Ingeniería Automotriz · Sede Quito</SheetDescription>
                   </div>
                 </div>
               </SheetHeader>
@@ -211,11 +211,11 @@ export default function AcademicGuide() {
       </header>
 
       <section className="relative isolate overflow-hidden bg-slate-100 text-[#062f5f]">
-        <img src="assets/hero-robotica-colaborativa.png" alt="Laboratorio universitario de robótica colaborativa para Mecatrónica" className="absolute inset-0 -z-20 h-full w-full object-cover object-[69%_center] sm:object-center" />
+        <img src="assets/Corolla-Fondo.jpeg" alt="Toyota Corolla para Ingeniería Automotriz" className="absolute inset-0 -z-20 h-full w-full object-cover object-[69%_center] sm:object-center" />
         <div className="absolute inset-0 -z-10 bg-[linear-gradient(90deg,rgba(255,255,255,.98)_0%,rgba(255,255,255,.93)_42%,rgba(255,255,255,.48)_68%,rgba(255,255,255,.08)_100%)]" />
         <div className="mx-auto grid min-h-[470px] max-w-7xl content-center px-5 py-16 sm:px-8 lg:min-h-[540px] lg:px-10">
           <div className="max-w-3xl rounded-3xl bg-white/72 p-5 shadow-[0_18px_50px_rgba(8,47,93,.10)] ring-1 ring-white/80 backdrop-blur-[2px] sm:bg-transparent sm:p-0 sm:shadow-none sm:ring-0 sm:backdrop-blur-none">
-            <p className="mb-4 text-sm font-black uppercase tracking-[.2em] text-[#0b69b4]">Sede Quito · Ingeniería Mecatrónica</p>
+            <p className="mb-4 text-sm font-black uppercase tracking-[.2em] text-[#0b69b4]">Sede Quito · Ingeniería Automotriz</p>
             <h1 className="text-4xl font-black leading-[1.04] tracking-tight sm:text-6xl lg:text-7xl">Guía de Procesos Académicos</h1>
             <p className="mt-4 max-w-2xl text-base leading-7 text-slate-700 sm:text-lg">Consulta requisitos, plazos y documentos oficiales sin perder tiempo buscando entre diferentes plataformas.</p>
           </div>
@@ -330,8 +330,8 @@ export default function AcademicGuide() {
       <footer className="bg-[#062f5f] text-blue-50">
         <div className="mx-auto flex max-w-7xl flex-col gap-4 px-5 py-10 sm:flex-row sm:items-center sm:justify-between sm:px-8">
           <div className="flex items-center gap-4">
-            <div><p className="font-extrabold text-white">Guía de Procesos Académicos</p><p className="mt-1 text-sm text-blue-200">Ingeniería Mecatrónica · Universidad Politécnica Salesiana · Sede Quito</p></div>
-            <img src="assets/logo-mecatronica-actualizado.png" alt="Identidad visual estudiantil de Ingeniería Mecatrónica" className="hidden h-16 w-14 rounded-xl bg-white object-contain opacity-80 sm:block" />
+            <div><p className="font-extrabold text-white">Guía de Procesos Académicos</p><p className="mt-1 text-sm text-blue-200">Ingeniería Automotriz · Universidad Politécnica Salesiana · Sede Quito</p></div>
+            <img src="assets/logo-mecatronica-actualizado.png" alt="Identidad visual estudiantil de Ingeniería Automotriz" className="hidden h-16 w-14 rounded-xl bg-white object-contain opacity-80 sm:block" />
           </div>
           <a href="#inicio" className="font-bold text-[#f5c400]">Volver al inicio ↑</a>
         </div>
@@ -339,4 +339,3 @@ export default function AcademicGuide() {
     </main>
   );
 }
-
