@@ -331,7 +331,7 @@ export default function AcademicGuide() {
         <div className="mx-auto flex max-w-7xl flex-col gap-4 px-5 py-10 sm:flex-row sm:items-center sm:justify-between sm:px-8">
           <div className="flex items-center gap-4">
             <div><p className="font-extrabold text-white">Guía de Procesos Académicos</p><p className="mt-1 text-sm text-blue-200">Ingeniería Automotriz · Universidad Politécnica Salesiana · Sede Quito</p></div>
-            <img src="assets/logo-mecatronica-actualizado.png" alt="Identidad visual estudiantil de Ingeniería Automotriz" className="hidden h-16 w-14 rounded-xl bg-white object-contain opacity-80 sm:block" />
+            <img src="assets/logo_ups.png.png" alt="Identidad visual estudiantil de Ingeniería Automotriz" className="hidden h-16 w-14 rounded-xl bg-white object-contain opacity-80 sm:block" />
           </div>
           <a href="#inicio" className="font-bold text-[#f5c400]">Volver al inicio ↑</a>
         </div>
