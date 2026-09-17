@@ -75,7 +75,7 @@ const categories: Array<{
     id: 'matriculas', title: 'Matrículas', short: 'Matrículas', icon: GraduationCap,
     description: 'Opciones y autorizaciones según tu situación académica.',
     guides: [
-      { title: 'Matrícula extraordinaria', meta: 'Presencial · Matrículas', description: 'Para estudiantes que necesitan matricularse una vez finalizado el período ordinario.', href: 'https://drive.google.com/file/d/100sLNvGovvdJTKWQ2apV30LDKlc4AvB_/view', icon: CalendarPlus },
+      { title: 'Matrícula extraordinaria', meta: 'Presencial · Matrículas', description: 'Para estudiantes que necesitan matricularse una vez finalizado el período ordinario.', href: 'https://estliveupsedu.sharepoint.com/:w:/s/consejodecarreradeingenieraautomotriz/IQAPm6D_WZxMRYmcHpRnaNwmAW3lI7rdnn2pXPNinAsSOG8?e=UNq136', icon: CalendarPlus },
       { title: 'Matrícula especial', meta: 'Presencial · 15 días', description: 'Solicita autorización después del cierre de las matrículas extraordinarias.', href: 'https://drive.google.com/file/d/1mP1vrlZaEbwgvp55NUOBIqYuvYBlNZkh/view', icon: CalendarCheck },
       { title: 'Matrícula como condicionado oyente', meta: 'Tercera matrícula', description: 'Trámite obligatorio cuando cursarás una asignatura por tercera ocasión.', href: 'https://drive.google.com/file/d/1dhrvgjOCeg1QEcOmHok5YbE5HuDsYRkr/view', icon: Ear },
       { title: 'Matrícula con aprobación previa de condicionado oyente', meta: 'Condicionado oyente', description: 'Registra asignaturas de condicionado oyente aprobadas en un período anterior.', href: 'https://drive.google.com/file/d/170FI-8NKhlQQSro0-eMiMWzckiMwWhah/view', icon: BadgeCheck },
@@ -331,7 +331,7 @@ export default function AcademicGuide() {
         <div className="mx-auto flex max-w-7xl flex-col gap-4 px-5 py-10 sm:flex-row sm:items-center sm:justify-between sm:px-8">
           <div className="flex items-center gap-4">
             <div><p className="font-extrabold text-white">Guía de Procesos Académicos</p><p className="mt-1 text-sm text-blue-200">Ingeniería Automotriz · Universidad Politécnica Salesiana · Sede Quito</p></div>
-            <img src="assets/logo_ups.png.png" alt="Identidad visual estudiantil de Ingeniería Automotriz" className="hidden h-16 w-14 rounded-xl bg-white object-contain opacity-80 sm:block" />
+            <img src="assets/logo_ups.png.png" alt="Identidad visual estudiantil de Ingeniería Automotriz" className="hidden h-16 w-22 rounded-xl bg-white object-contain opacity-80 sm:block" />
           </div>
           <a href="#inicio" className="font-bold text-[#f5c400]">Volver al inicio ↑</a>
         </div>
