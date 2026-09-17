@@ -75,7 +75,7 @@ const categories: Array<{
     id: 'matriculas', title: 'Matrículas', short: 'Matrículas', icon: GraduationCap,
     description: 'Opciones y autorizaciones según tu situación académica.',
     guides: [
-      { title: 'Matrícula extraordinaria', meta: 'Presencial · Matrículas', description: 'Para estudiantes que necesitan matricularse una vez finalizado el período ordinario.', href: 'https://estliveupsedu.sharepoint.com/:w:/s/consejodecarreradeingenieraautomotriz/IQAPm6D_WZxMRYmcHpRnaNwmAW3lI7rdnn2pXPNinAsSOG8?e=UNq136', icon: CalendarPlus },
+      { title: 'Matrícula extraordinaria', meta: 'Presencial · Matrículas', description: 'Para estudiantes que necesitan matricularse una vez finalizado el período ordinario.', href: 'https://estliveupsedu-my.sharepoint.com/:w:/g/personal/labautomotrizuio_ups_edu_ec/IQBnrFBjIvjBRbV_VuJQkrLdAXo4_DVEw00axxDWzSaqMvg?e=OqzXWY', icon: CalendarPlus },
       { title: 'Matrícula especial', meta: 'Presencial · 15 días', description: 'Solicita autorización después del cierre de las matrículas extraordinarias.', href: 'https://drive.google.com/file/d/1mP1vrlZaEbwgvp55NUOBIqYuvYBlNZkh/view', icon: CalendarCheck },
       { title: 'Matrícula como condicionado oyente', meta: 'Tercera matrícula', description: 'Trámite obligatorio cuando cursarás una asignatura por tercera ocasión.', href: 'https://drive.google.com/file/d/1dhrvgjOCeg1QEcOmHok5YbE5HuDsYRkr/view', icon: Ear },
       { title: 'Matrícula con aprobación previa de condicionado oyente', meta: 'Condicionado oyente', description: 'Registra asignaturas de condicionado oyente aprobadas en un período anterior.', href: 'https://drive.google.com/file/d/170FI-8NKhlQQSro0-eMiMWzckiMwWhah/view', icon: BadgeCheck },
