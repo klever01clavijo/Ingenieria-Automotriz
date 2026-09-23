@@ -18,7 +18,6 @@ import {
   FolderOpen,
   GraduationCap,
   HandHeart,
-  Handshake,
   Languages,
   KeyRound,
   ListMinus,
@@ -116,7 +115,6 @@ const categories: Array<{
     description: 'Asignaturas paracadémicas obligatorias según el nivel.',
     guides: [
       { title: 'Prácticas de Servicio Comunitario I', meta: '5.º nivel · En línea', description: 'Consulta el proceso según el calendario de matrículas.', href: 'https://drive.google.com/file/d/1Y8ejT0Rz4yvf0TrGlBuJ4nEseK3xWPro/view', icon: HandHeart },
-      { title: 'Prácticas de Servicio Comunitario II', meta: '6.º nivel · En línea', description: 'Consulta el proceso según el calendario de matrículas.', href: 'https://drive.google.com/file/d/1Y8ejT0Rz4yvf0TrGlBuJ4nEseK3xWPro/view', icon: Handshake },
       { title: 'Prácticas Preprofesionales', meta: '7.º nivel · En línea', description: 'Consulta el proceso según el calendario de matrículas.', href: 'https://drive.google.com/file/d/1Y8ejT0Rz4yvf0TrGlBuJ4nEseK3xWPro/view', icon: Factory },
     ],
   },
