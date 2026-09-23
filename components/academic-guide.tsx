@@ -139,10 +139,10 @@ const categories: Array<{
     id: 'recursos-tecnologicos', title: 'Recursos tecnológicos', short: 'Soporte tecnológico', icon: Wifi,
     description: 'Guías de conectividad y recuperación de acceso institucional.',
     guides: [
-      { title: 'Conexión WiFi en Android', meta: 'Dispositivos Android', description: 'Configura la red UPS_ESTUDIANTES con tus credenciales institucionales.', href: 'https://drive.google.com/file/d/1FqsM80PwAH94bb1DadAA2b7I6f0c9Fkl/view', icon: Wifi, resource: true },
-      { title: 'Conexión WiFi en iPhone y iPad', meta: 'Dispositivos Apple', description: 'Instala el perfil de conexión para acceder a la red inalámbrica institucional.', href: 'https://drive.google.com/file/d/1_g9b8HbGkSTNS2RiwPVESU8AhTvX9top/view', icon: Smartphone, resource: true },
-      { title: 'Restablecimiento de inicio de sesión', meta: 'Correo institucional', description: 'Cambia tu clave desde la página personal cuando no puedes ingresar al correo institucional.', href: 'https://drive.google.com/file/d/1iSqFwW47deo3e9-Fet5GLK8_VCeaSWJS/view', icon: RotateCcw, resource: true },
-      { title: 'Restablecimiento mediante “Recordar contraseña”', meta: 'Cuenta institucional y AVAC', description: 'Recupera el acceso mediante tu correo personal registrado en la Universidad.', href: 'https://drive.google.com/file/d/1OyAxjhttlK481kiomq0Z97bPoMmCi8eq/view', icon: KeyRound, resource: true },
+      { title: 'Conexión WiFi en Android', meta: 'Dispositivos Android', description: 'Configura la red UPS_ESTUDIANTES con tus credenciales institucionales.', href: 'https://estliveupsedu-my.sharepoint.com/:b:/g/personal/labautomotrizuio_ups_edu_ec/IQC8mCGLTM2NTofH3PXEO140AdjpEdBHVjHANGj27McbLAg?e=3OOFZE', icon: Wifi, resource: true },
+      { title: 'Conexión WiFi en iPhone y iPad', meta: 'Dispositivos Apple', description: 'Instala el perfil de conexión para acceder a la red inalámbrica institucional.', href: 'https://estliveupsedu-my.sharepoint.com/:b:/g/personal/labautomotrizuio_ups_edu_ec/IQCOABZETYhrS7MTDaVGDJNQAR631_Va-ZxNlkzCj1oc574?e=Agy1l7', icon: Smartphone, resource: true },
+      { title: 'Restablecimiento de inicio de sesión', meta: 'Correo institucional', description: 'Cambia tu clave desde la página personal cuando no puedes ingresar al correo institucional.', href: 'https://estliveupsedu-my.sharepoint.com/:b:/g/personal/labautomotrizuio_ups_edu_ec/IQATwRptD6_pTIyEmYmsbEmiAYbpQN16WJjGoIMht9aZ7lY?e=VJ54YR', icon: RotateCcw, resource: true },
+      { title: 'Restablecimiento mediante “Recordar contraseña”', meta: 'Cuenta institucional y AVAC', description: 'Recupera el acceso mediante tu correo personal registrado en la Universidad.', href: 'https://estliveupsedu-my.sharepoint.com/:b:/g/personal/labautomotrizuio_ups_edu_ec/IQDM7e-qFvgmQrgbktnl1BqhAST4LTZm7nlFuHJ1iL-bwXI?e=GnAlwa', icon: KeyRound, resource: true },
     ],
   },
 ];
