@@ -314,11 +314,11 @@ export default function AcademicGuide() {
           </div>
           <div className="grid gap-5 md:grid-cols-2">
             <figure className="flex flex-col items-center gap-5 rounded-3xl border border-blue-100 bg-white p-5 text-center shadow-[0_10px_32px_rgba(8,47,93,.07)] sm:flex-row sm:text-left">
-              <img src="assets/qr-grupo-whatsapp.png" alt="Código QR para el grupo de WhatsApp" className="size-40 shrink-0 rounded-2xl border border-slate-100 bg-white object-contain p-2" />
+              <img src="assets/QR-Comunidad.jpeg" alt="Código QR para el grupo de WhatsApp" className="size-40 shrink-0 rounded-2xl border border-slate-100 bg-white object-contain p-2" />
               <figcaption><h3 className="text-xl font-extrabold text-[#073b75]">Grupo de WhatsApp</h3><p className="mt-2 leading-7 text-slate-600">Escanea el código para acceder al grupo informativo de estudiantes.</p></figcaption>
             </figure>
             <figure className="flex flex-col items-center gap-5 rounded-3xl border border-blue-100 bg-white p-5 text-center shadow-[0_10px_32px_rgba(8,47,93,.07)] sm:flex-row sm:text-left">
-              <img src="assets/qr-tramites.png" alt="Código QR para trámites académicos" className="size-40 shrink-0 rounded-2xl border border-slate-100 bg-white object-contain p-2" />
+              <img src="assets/QR-Procesos Academicos.png" alt="Código QR para trámites académicos" className="size-40 shrink-0 rounded-2xl border border-slate-100 bg-white object-contain p-2" />
               <figcaption><h3 className="text-xl font-extrabold text-[#073b75]">Trámites académicos</h3><p className="mt-2 leading-7 text-slate-600">Escanea el código para consultar rápidamente los recursos de trámites.</p></figcaption>
             </figure>
           </div>
